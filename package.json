@@ -1,0 +1,8 @@
+{
+  "name": "center-an-element",
+  "version": "1.0.0",
+  "description": "",
+  "main": "centerAnElement.js",
+  "author": "Derek Mason",
+  "license": "ISC"
+}
